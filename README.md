@@ -1,4 +1,4 @@
-# resolvendo--codigos-python-com-chatgpt
+# resolvendo-codigos-python-com-chatgpt
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot (AlternativaChatGPT-4).
 
 ## 1 - Concatenando Dados 🐾
